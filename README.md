@@ -10,9 +10,9 @@ In order to use this repository you need the following:
 
 ## Procedure
 
-terraform init
-terraform plan
-terraform appy
+- terraform init
+- terraform plan
+- terraform appy
 
 ## Clear Up
 
